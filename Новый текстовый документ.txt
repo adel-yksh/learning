@@ -1,0 +1,7 @@
+cd environments
+source selenium_env/bin/activate на макбуке
+
+cd environments
+selenium_env\Scripts\activate.bat на виндус
+
+активация виртуальной среды
